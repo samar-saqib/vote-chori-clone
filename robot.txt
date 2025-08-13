@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap:  https://samar-saqib.github.io/vote-chori-clone/
+Sitemap: https://samar-saqib.github.io/vote-chori-clone/sitemap.xml
